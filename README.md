@@ -22,7 +22,7 @@ Developed by: TANESSHA KANNAN
 RegisterNumber: 212223040225
 ```
 ```
-**import pandas as pd
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
